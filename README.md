@@ -46,12 +46,12 @@ I am  __Sharin__, and I work as a lecturer at [Universiti Teknologi Malaysia](ht
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drshahizan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sharinh&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharinh&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
   
-  ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
+  ![Follower Badge](https://img.shields.io/github/followers/sharinh)
   ![](https://hit.yhype.me/github/profile?user_id=81284918)
  
 </details>
