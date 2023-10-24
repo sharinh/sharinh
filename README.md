@@ -16,7 +16,7 @@
 
 
 ### Glad to see you here!  
-I’m currently working on this page.  
+Welcome to my page. This githib is used as repository for my project and my courses.
 
 <br/>  
 
