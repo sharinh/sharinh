@@ -13,24 +13,12 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 Welcome to my page. This githib is used as repository for my project and my courses.
 
 <br/>  
 
 
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-</div>  
-
-<br/>  
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sharinh&&style=flat-square)  
